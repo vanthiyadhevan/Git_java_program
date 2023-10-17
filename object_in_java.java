@@ -20,6 +20,7 @@ public class object_in_java {
         System.out.println("Multiplication of Two values is: " + cal.multipilication(a,b));
         System.out.println("Division of Two values is: " + cal.division(a,b));
         System.out.println("Modules of Two values is: " + cal.mudulos(a,b));
+        scan.close();
     }
 }
 class Calculator {
