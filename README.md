@@ -1,1 +1,1 @@
-# Java Pattern Progtams
+# Java Pattern Programs
